@@ -31,6 +31,7 @@ class ViewController: UIViewController {
         
         
         //diceImageViewOne.image=diceImageArray[Int.random(in:0...5)]
+        //diceImageViewOne.image=diceImageArray.randomElement()
         diceImageViewOne.image = UIImage.init(imageLiteralResourceName: "DiceOne")
         diceImageViewTwo.image = UIImage.init(imageLiteralResourceName: "DiceOne")
         
