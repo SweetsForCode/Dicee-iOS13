@@ -1,17 +1,17 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Owl Develop Banner](OwlDevelopBanner.png)
 
 # Dicee
+Dicee was provided by the world's best online programming courses, The App Brewery !(https://appbrewery.com/?_ga=2.135849209.932060850.1708224738-1319108131.1707594403)
+## My Goal
 
-## Our Goal
+My Goal of this tutorial is to refresh my memory on Swift 5.0 and the fundamental basics of Swift programming. 
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
-
-## What you will create
+## What I created
 
 We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+Through this course I created a _Las Vegas Dice App_. I was able to create randomization through Swift's built in .randomElement() function. I was also able to get a refresher on Arrays, UIImages, Views, Buttons, UIOutlets & UIActions. 
 
-
-## What you will learn
+## What I learned
 
 * How to clone an existing Xcode project from GitHub.
 * Create an app with behaviour and functionality.
@@ -27,5 +27,5 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
+>This repository was provided by the App Brewery with modifications from _Owl Develop_
 
